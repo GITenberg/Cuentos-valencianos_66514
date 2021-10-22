@@ -1,0 +1,27 @@
+_repo: Cuentos-valencianos_66514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+description: ''
+gutenberg_issued: '2021-10-11'
+identifiers:
+  gutenberg: '66514'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cuentos valencianos
+url: http://www.gutenberg.org/ebooks/66514
